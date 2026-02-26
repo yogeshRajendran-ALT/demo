@@ -1,0 +1,38 @@
+#topbar {
+  background-color: red;
+  height: 20px;
+  width: 100%;
+}
+body
+{
+background-color:white;
+}
+#container
+{
+background-color:rgb(216, 223, 25);
+height:700px;
+width:70%;
+margin:0px auto;
+}
+#header
+{
+height:80px;
+background-color: white;
+}
+#header img
+{
+height:80px;
+}
+#header ul
+{
+float:right;
+}
+#header ul li
+{
+display:inline;
+margin-right:30px;
+}
+#header ul li a
+{
+color:red;
+}
